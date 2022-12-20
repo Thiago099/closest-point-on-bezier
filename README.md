@@ -16,6 +16,15 @@ const {curve_position, closest_point} = closestPoint(
     {x:offsetX,y:offsetY}
 )
 ```
+result:
+```ts
+{
+curve_position : number,
+closest_point: {
+    x : number
+    y : number
+},
+```
 
 
 example of what data this program cauculates

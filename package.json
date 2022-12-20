@@ -1,6 +1,6 @@
 {
   "name": "closest-point-on-bezier",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "closestPointOnBezier.js",
   "scripts": {
@@ -22,5 +22,8 @@
     "point",
     "math",
     "geometry"
-  ]
+  ],
+  "dependencies": {
+    "vmath": "^1.4.8"
+  }
 }

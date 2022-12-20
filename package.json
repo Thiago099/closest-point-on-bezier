@@ -1,0 +1,19 @@
+{
+  "name": "closest-point-on-bezier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "closestPointOnBezier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago099/closetst-point-on-bezier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago099/closetst-point-on-bezier/issues"
+  },
+  "homepage": "https://github.com/Thiago099/closetst-point-on-bezier#readme"
+}

@@ -1,5 +1,6 @@
 # closest-point-on-bezier
 
+Given a bezier curve and a point, finds which point in the curve is closest to the given point
 
 usage:
 ```js

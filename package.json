@@ -1,6 +1,6 @@
 {
   "name": "closest-point-on-bezier",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "",
   "main": "closestPointOnBezier.js",
   "scripts": {

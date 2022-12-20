@@ -12,7 +12,7 @@ export default function closestPoint(bezier,point)
     
     const closest = vec2.create();
     
-    const curve_position = _closestPoint(closest, bezier.map(p=> vec2.new(p.x,p.y)), vec2.new(point.x, point.y), tmpVecs);
+    const relative_position = _closestPoint(closest, bezier.map(p=> vec2.new(p.x,p.y)), vec2.new(point.x, point.y), tmpVecs);
 
     return {
         relative_position,

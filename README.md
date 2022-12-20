@@ -21,7 +21,7 @@ result:
 {
 curve_position : number,
 closest_point: {
-    x : number
+    x : number,
     y : number
 },
 ```

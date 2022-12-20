@@ -6,7 +6,7 @@ Given a bezier curve and a point, finds which point in the curve is closest to t
 ```js
 import closestPoint from "closest-point-on-bezier";
 
-const {curve_position, closest_point} = closestPoint(
+const {relative_position, absolute_point} = closestPoint(
     [
         {x:20,y:20},
         {x:20,y:100},

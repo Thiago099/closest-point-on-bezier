@@ -20,8 +20,8 @@ const {curve_position, closest_point} = closestPoint(
 ## result:
 ```ts
 {
-curve_position : number,
-closest_point: {
+curve_position : number, // the relative position of the point on the curve
+closest_point: { // the absolute position of the point on the screen
     x : number,
     y : number
 },

@@ -3,8 +3,15 @@
 
 usage:
 ```js
-import closestPoint from "closest-point-on-bezier";
-const {curve_position, closest_point} = closestPoint([{x:20,y:20},{x:20,y:100},{x:200,y:100},{x:200,y:20}],{x:offsetX,y:offsetY})
+const {curve_position, closest_point} = closestPoint(
+    [
+        {x:20,y:20},
+        {x:20,y:100},
+        {x:200,y:100},
+        {x:200,y:20}
+    ],
+    {x:offsetX,y:offsetY}
+)
 ```
 
 

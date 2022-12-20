@@ -1,6 +1,6 @@
 {
   "name": "closest-point-on-bezier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "closestPointOnBezier.js",
   "scripts": {
@@ -16,5 +16,11 @@
     "url": "https://github.com/Thiago099/closetst-point-on-bezier/issues"
   },
   "homepage": "https://github.com/Thiago099/closetst-point-on-bezier#readme",
-  "tags" : ["bezier", "closest", "point", "math", "geometry"]
+  "keywords": [
+    "bezier",
+    "closest",
+    "point",
+    "math",
+    "geometry"
+  ]
 }

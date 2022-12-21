@@ -6,8 +6,6 @@ export default function closestPoint(bezier,point)
 {
     const vec2 = vmath.vec2;
 
-    console.log(bezier);
-    
     const tmpVecs = bezier.map(() => vec2.create());
     
     const closest = vec2.create();
